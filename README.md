@@ -50,18 +50,14 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
 [![Projetos](https://github-readme-stats.vercel.app/api/pin/?username=Felps-26&repo=Projetos&theme=tokyonight)](https://github.com/Felps-26/Projetos)
-
-</div>
 
 ---
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Felps-26&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ff9e64" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Felps-26&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
@@ -99,6 +95,28 @@
 - 🔍 Love exploring different programming paradigms
 - 🚀 Passionate about creating efficient algorithms
 - 💡 Believe that every problem has an elegant solution
+
+---
+
+## 🎮 Pac-Man Code Hunter
+
+<div align="center">
+
+```
+🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
+🔸                                                            🔸
+🔸    ᗧ•••        ᗤ        🐛        ᗤ        •••ᗤ         🔸
+🔸                                                            🔸
+🔸         "Hunting bugs and devouring algorithms!"          🔸
+🔸                                                            🔸
+🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
+```
+
+<img src="https://img.shields.io/badge/🎮_Pac--Man_Status-Hunting_Bugs-yellow?style=for-the-badge&logo=pac-man" />
+<img src="https://img.shields.io/badge/🍒_Score-∞_Points-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🎯_Level-Code_Master-blue?style=for-the-badge" />
+
+</div>
 
 ---
 
