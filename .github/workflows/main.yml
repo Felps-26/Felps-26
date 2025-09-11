@@ -17,8 +17,4 @@ jobs:
       uses: abozanona/pacman-contribution-graph@main
       with:
         github_user_name: 'Felps-26'
-        include_private: false
-        svg_out_path: 'pacman.svg'
-        push_to_branch: 'output'
-        commit_message: 'Update pacman contribution graph'
-        githubtoken: ${{ secrets.GITHUB_TOKEN }}
+        github_token: ${{ secrets.GITHUB_TOKEN }}
