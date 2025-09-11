@@ -57,7 +57,15 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Felps-26&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Felps-26&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🎮 Pac-Man Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Felps-26/Felps-26/main/pacman.svg" alt="Pac-Man Contribution Graph" />
 </div>
 
 ---
