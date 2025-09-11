@@ -11,10 +11,41 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     
     steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+    
     - name: Generate Pac-Man Contribution Graph
       uses: abozanona/pacman-contribution-graph@main
       with:
         github_user_name: 'Felps-26'
         github_token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Move and rename generated files
+      run: |
+        # Create directory if it doesn't exist
+        mkdir -p .
+        # Move and rename the generated files
+        if [ -f dist/pacman-contribution-graph.svg ]; then
+          mv dist/pacman-contribution-graph.svg pacman.svg
+        fi
+        if [ -f dist/pacman-contribution-graph-dark.svg ]; then
+          mv dist/pacman-contribution-graph-dark.svg pacman-dark.svg
+        fi
+        # List files to verify
+        ls -la *.svg || echo "No SVG files found"
+    
+    - name: Commit and push generated files
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add *.svg || echo "No SVG files to add"
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update Pac-Man contribution graph [automated]"
+          git push
+        fi
