@@ -98,28 +98,6 @@
 
 ---
 
-## 🎮 Pac-Man Code Hunter
-
-<div align="center">
-
-```
-🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
-🔸                                                            🔸
-🔸    ᗧ•••        ᗤ        🐛        ᗤ        •••ᗤ         🔸
-🔸                                                            🔸
-🔸         "Hunting bugs and devouring algorithms!"          🔸
-🔸                                                            🔸
-🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
-```
-
-<img src="https://img.shields.io/badge/🎮_Pac--Man_Status-Hunting_Bugs-yellow?style=for-the-badge&logo=pac-man" />
-<img src="https://img.shields.io/badge/🍒_Score-∞_Points-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🎯_Level-Code_Master-blue?style=for-the-badge" />
-
-</div>
-
----
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
