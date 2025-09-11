@@ -56,10 +56,6 @@
 <div align="center">
 
 [![Projetos](https://github-readme-stats.vercel.app/api/pin/?username=Felps-26&repo=Projetos&theme=tokyonight)](https://github.com/Felps-26/Projetos)
-[![Data Structures](https://github-readme-stats.vercel.app/api/pin/?username=Felps-26&repo=Data_struct_2-Sem&theme=tokyonight)](https://github.com/Felps-26/Data_struct_2-Sem)
-
-[![OOP Projects](https://github-readme-stats.vercel.app/api/pin/?username=Felps-26&repo=OOP_2S_2025&theme=tokyonight)](https://github.com/Felps-26/OOP_2S_2025)
-[![Frontend Development](https://github-readme-stats.vercel.app/api/pin/?username=Felps-26&repo=Des_FrontEnd_2S_2025&theme=tokyonight)](https://github.com/Felps-26/Des_FrontEnd_2S_2025)
 
 </div>
 
