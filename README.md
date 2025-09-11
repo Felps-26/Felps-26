@@ -1,6 +1,6 @@
 <!-- Header with animated typing -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Felps!+👋;Welcome+to+my+GitHub!+🚀;Always+learning!+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Felps!+👋;Welcome+to+my+GitHub!+🚀;Always+learning!+💡;Everything+in+its+right+place...+🎯" alt="Typing SVG" />
 </h1>
 
 ---
@@ -12,6 +12,7 @@
 - 💡 Always exploring new technologies and programming concepts
 - 📚 Computer Science student passionate about software development
 - 🎯 Goal: Build efficient and innovative software solutions
+- 🐟 *"In limbo... get the angles right!"* - Always debugging and optimizing code
 
 ---
 
@@ -30,6 +31,30 @@
 
 ---
 
+## 🎯 Philosophy & Focus
+
+> *"Everything in its right place"* - Clean code, proper architecture, and organized projects 📁  
+> *"No surprises"* - Reliable, well-tested software that works as expected ✅  
+> *"Optimistic"* - Always believing there's a solution to every coding challenge 💪
+
+---
+
+## 🐟 Fun Facts & Weird Fishes
+
+- 🔍 I love diving deep into complex algorithms like exploring *weird fishes* in the depths of code
+- 🌈 Currently learning how to make my programs more *colorful* and user-friendly
+- 🎪 Sometimes I feel like a *creep* when debugging someone else's code at 3 AM
+- 🚀 My commits are getting more *paranoid* about edge cases (and that's a good thing!)
+
+---
+
+## 💭 Current Mindset
+
+*"How to disappear completely"* from bugs and write code that just works seamlessly 🪄  
+*"Let down"* by syntax errors, but never giving up! 🔄
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -37,86 +62,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felps-26&layout=compact&theme=tokyonight" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Felps-26&theme=tokyonight" />
-</div>
-
 ---
 
-## 🚀 Featured Projects
+## 🎵 *"There are two colors in my head..."*
 
-[![Projetos](https://github-readme-stats.vercel.app/api/pin/?username=Felps-26&repo=Projetos&theme=tokyonight)](https://github.com/Felps-26/Projetos)
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Felps-26&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
-</div>
-
----
-
-## 🎮 Pac-Man Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Felps-26/Felps-26/main/pacman.svg" alt="Pac-Man Contribution Graph" />
-</div>
-
----
-
-## 🎯 Current Focus
-
-- 🔥 Improving problem-solving skills with **Data Structures & Algorithms**
-- 💻 Building practical projects with **C programming**
-- 🌐 Learning modern **Frontend technologies**
-- 🗃️ Mastering **SQL** for database management
-- 📱 Exploring **Object-Oriented Programming** concepts
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="mailto:filipileiteramos@outlook.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/filipi-l-ramos-531826275/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Felps-26">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## ⚡ Fun Facts
-
-- 🎮 I enjoy solving coding challenges in my free time
-- 📖 Always reading about new programming concepts
-- 🔍 Love exploring different programming paradigms
-- 🚀 Passionate about creating efficient algorithms
-- 💡 Believe that every problem has an elegant solution
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <h3>💫 "Code is like humor. When you have to explain it, it's bad." - Cory House 💫</h3>
-</div>
+**Binary thinking meets creative solutions** 🎨💻
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Always%20learning-🚀-blue?style=for-the-badge" />
+  <i>"Just 'cause you feel it doesn't mean it's there..."</i><br>
+  But your code should always be! 😉
 </p>
-
-<!-- Snake animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Felps-26/Felps-26/output/snake.svg" alt="Snake animation" />
-</div>
