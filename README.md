@@ -8,7 +8,7 @@
 ## 🧑‍💻 About Me
 
 - 🔭 I'm currently working on **Data Structures & Algorithms** and **Object-Oriented Programming**
-- 🌱 I'm currently learning **C Programming**, **Frontend Development**, and **SQL**
+- 🌱 I'm currently learning **C Programming**, **Frontend Development**, **Backend Development**, and **SQL**
 - 💡 Always exploring new technologies and programming concepts
 - 📚 Computer Science student passionate about software development
 - 🎯 Goal: Build efficient and innovative software solutions
