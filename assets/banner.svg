@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="900" height="240" role="img" aria-label="felps - computer science student">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A0A0F"/>
+      <stop offset="1" stop-color="#14101F"/>
+    </linearGradient>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#ffffff" opacity="0.035"/>
+    </pattern>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00F0FF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00F0FF" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#00F0FF" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .mono { font-family: 'Fira Code','JetBrains Mono','Consolas',monospace; }
+      .title { font-size: 92px; font-weight: 700; letter-spacing: 6px; }
+      .hud { font-size: 13px; letter-spacing: 3px; }
+      .sub { font-size: 17px; letter-spacing: 1px; }
+      .cyan { animation: glitchA 5s infinite steps(1); }
+      .mag  { animation: glitchB 5s infinite steps(1); }
+      @keyframes glitchA {
+        0%, 88%, 100% { transform: translate(0,0); }
+        89% { transform: translate(-5px, 1px); }
+        91% { transform: translate(4px, -1px); }
+        93% { transform: translate(-2px, 0); }
+      }
+      @keyframes glitchB {
+        0%, 88%, 100% { transform: translate(0,0); }
+        89% { transform: translate(5px, -1px); }
+        91% { transform: translate(-4px, 1px); }
+        93% { transform: translate(2px, 0); }
+      }
+      .blink { animation: blink 1.2s infinite steps(1); }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+  </defs>
+
+  <rect width="900" height="240" fill="url(#bg)"/>
+  <rect width="900" height="240" fill="url(#scan)"/>
+
+  <!-- corner brackets (HUD) -->
+  <g fill="none" stroke="#FCEE0A" stroke-width="2" opacity="0.9">
+    <path d="M20 44 V20 H44"/>
+    <path d="M856 20 H880 V44"/>
+    <path d="M20 196 V220 H44"/>
+    <path d="M856 220 H880 V196"/>
+  </g>
+
+  <!-- top HUD line -->
+  <text x="60" y="52" class="mono hud" fill="#FCEE0A">// SYS.ONLINE</text>
+  <text x="840" y="52" class="mono hud" fill="#00F0FF" text-anchor="end" opacity="0.8">
+    SANDEVISTAN <tspan fill="#FF2A6D">READY</tspan>
+  </text>
+
+  <!-- glitch title: magenta + cyan layers behind, white on top -->
+  <g class="mono title" text-anchor="middle">
+    <text class="mag" x="450" y="148" fill="#FF2A6D" opacity="0.85">felps</text>
+    <text class="cyan" x="450" y="148" fill="#00F0FF" opacity="0.85">felps</text>
+    <text x="450" y="148" fill="#F5F5FA">felps</text>
+  </g>
+
+  <!-- subtitle -->
+  <text x="450" y="188" class="mono sub" fill="#A8A8BC" text-anchor="middle">
+    Computer Science <tspan fill="#FF2A6D">//</tspan> Python <tspan fill="#FF2A6D">//</tspan> C++
+    <tspan class="blink" fill="#00F0FF">_</tspan>
+  </text>
+
+  <!-- sweeping light bar -->
+  <rect y="0" width="160" height="240" fill="url(#sweep)">
+    <animate attributeName="x" from="-160" to="900" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- bottom neon line -->
+  <rect x="0" y="236" width="900" height="4" fill="#FF2A6D"/>
+  <rect x="0" y="236" width="300" height="4" fill="#00F0FF">
+    <animate attributeName="x" from="-300" to="900" dur="4s" repeatCount="indefinite"/>
+  </rect>
+</svg>
